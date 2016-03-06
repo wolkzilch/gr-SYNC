@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classgr_1_1SYNC_1_1operation__splitter__sync" kind="class"><name>gr::SYNC::operation_splitter_sync</name>
+    <member refid="classgr_1_1SYNC_1_1operation__splitter__sync_1ac01880570616e8537c82434e053673d0" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1SYNC_1_1operation__splitter__sync_1a71acb09d819b441174e03c2a92a8a954" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1SYNC" kind="namespace"><name>gr::SYNC</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a225be0e6bdc83b9be5fd38cc197a9f58" kind="define"><name>SYNC_API</name></member>
+  </compound>
+  <compound refid="operation__splitter__sync_8h" kind="file"><name>operation_splitter_sync.h</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/include</name>
+  </compound>
+  <compound refid="dir_987b8384f3f158fd34bf749943b5cbab" kind="dir"><name>/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/include/SYNC</name>
+  </compound>
+</doxygenindex>

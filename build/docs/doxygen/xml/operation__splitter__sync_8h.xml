@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="operation__splitter__sync_8h" kind="file">
+    <compoundname>operation_splitter_sync.h</compoundname>
+    <includes refid="api_8h" local="no">SYNC/api.h</includes>
+    <includes local="no">gnuradio/sync_decimator.h</includes>
+    <includedby refid="operation__splitter__sync__impl_8h" local="no">operation_splitter_sync_impl.h</includedby>
+    <incdepgraph>
+      <node id="12">
+        <label>gnuradio/sync_decimator.h</label>
+      </node>
+      <node id="11">
+        <label>gnuradio/attributes.h</label>
+      </node>
+      <node id="10">
+        <label>SYNC/api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>operation_splitter_sync.h</label>
+        <link refid="operation_splitter_sync.h"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="14">
+        <label>operation_splitter_sync_impl.h</label>
+        <link refid="operation__splitter__sync__impl_8h"/>
+      </node>
+      <node id="13">
+        <label>operation_splitter_sync.h</label>
+        <link refid="operation_splitter_sync.h"/>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="classgr_1_1SYNC_1_1operation__splitter__sync" prot="public">gr::SYNC::operation_splitter_sync</innerclass>
+    <innernamespace refid="namespacegr">gr</innernamespace>
+    <innernamespace refid="namespacegr_1_1SYNC">gr::SYNC</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/include/SYNC/operation_splitter_sync.h"/>
+  </compounddef>
+</doxygen>

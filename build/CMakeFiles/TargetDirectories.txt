@@ -1,0 +1,12 @@
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/SYNC_swig_swig_2d0df.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/SYNC_swig_swig_doc.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/_SYNC_swig.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/_SYNC_swig_doc_tag.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/_SYNC_swig_swig_tag.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/docs/doxygen/CMakeFiles/doxygen_target.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/lib/CMakeFiles/gnuradio-SYNC.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/python/CMakeFiles/pygen_python_0c2f4.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/swig/CMakeFiles/pygen_swig_0322f.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/lib/CMakeFiles/test-SYNC.dir
+/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/build/CMakeFiles/uninstall.dir

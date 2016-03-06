@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classgr_1_1SYNC_1_1operation__splitter__sync__impl" kind="class" prot="public">
+    <compoundname>gr::SYNC::operation_splitter_sync_impl</compoundname>
+    <basecompoundref refid="classgr_1_1SYNC_1_1operation__splitter__sync" prot="public" virt="non-virtual">gr::SYNC::operation_splitter_sync</basecompoundref>
+    <includes refid="operation__splitter__sync__impl_8h" local="no">operation_splitter_sync_impl.h</includes>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1a225806bff86f376d4c67ee75cc198d42" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::SYNC::operation_splitter_sync_impl::operation_splitter_sync_impl</definition>
+        <argsstring>()</argsstring>
+        <name>operation_splitter_sync_impl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/lib/operation_splitter_sync_impl.h" line="35" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1ab5900ae08bdad9f9d56b62f13debaa18" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::SYNC::operation_splitter_sync_impl::~operation_splitter_sync_impl</definition>
+        <argsstring>()</argsstring>
+        <name>~operation_splitter_sync_impl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/lib/operation_splitter_sync_impl.h" line="36" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1a3ce15c7d4cee3e7ccb67ee602899928f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int gr::SYNC::operation_splitter_sync_impl::work</definition>
+        <argsstring>(int noutput_items, gr_vector_const_void_star &amp;input_items, gr_vector_void_star &amp;output_items)</argsstring>
+        <name>work</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_const_void_star &amp;</type>
+          <declname>input_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_void_star &amp;</type>
+          <declname>output_items</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/lib/operation_splitter_sync_impl.h" line="39" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>gr::sync_decimator</label>
+      </node>
+      <node id="5">
+        <label>gr::SYNC::operation_splitter_sync_impl</label>
+        <link refid="classgr_1_1SYNC_1_1operation__splitter__sync__impl"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>gr::SYNC::operation_splitter_sync</label>
+        <link refid="classgr_1_1SYNC_1_1operation__splitter__sync"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="10">
+        <label>gr::sync_decimator</label>
+      </node>
+      <node id="8">
+        <label>gr::SYNC::operation_splitter_sync_impl</label>
+        <link refid="classgr_1_1SYNC_1_1operation__splitter__sync__impl"/>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>gr::SYNC::operation_splitter_sync</label>
+        <link refid="classgr_1_1SYNC_1_1operation__splitter__sync"/>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/lib/operation_splitter_sync_impl.h" line="30" column="1" bodyfile="/home/zbd/Workspaces/workspace_gr_orig/gr-SYNC/lib/operation_splitter_sync_impl.h" bodystart="29" bodyend="42"/>
+    <listofallmembers>
+      <member refid="classgr_1_1SYNC_1_1operation__splitter__sync_1a71acb09d819b441174e03c2a92a8a954" prot="public" virt="non-virtual"><scope>gr::SYNC::operation_splitter_sync_impl</scope><name>make</name></member>
+      <member refid="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1a225806bff86f376d4c67ee75cc198d42" prot="public" virt="non-virtual"><scope>gr::SYNC::operation_splitter_sync_impl</scope><name>operation_splitter_sync_impl</name></member>
+      <member refid="classgr_1_1SYNC_1_1operation__splitter__sync_1ac01880570616e8537c82434e053673d0" prot="public" virt="non-virtual"><scope>gr::SYNC::operation_splitter_sync_impl</scope><name>sptr</name></member>
+      <member refid="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1a3ce15c7d4cee3e7ccb67ee602899928f" prot="public" virt="non-virtual"><scope>gr::SYNC::operation_splitter_sync_impl</scope><name>work</name></member>
+      <member refid="classgr_1_1SYNC_1_1operation__splitter__sync__impl_1ab5900ae08bdad9f9d56b62f13debaa18" prot="public" virt="non-virtual"><scope>gr::SYNC::operation_splitter_sync_impl</scope><name>~operation_splitter_sync_impl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

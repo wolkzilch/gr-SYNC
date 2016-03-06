@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libgnuradio-SYNC.so -o libgnuradio-SYNC.so CMakeFiles/gnuradio-SYNC.dir/operation_splitter_sync_impl.cc.o -lboost_filesystem -lboost_system /home/zbd/Targets/target_gr_orig/lib/libgnuradio-runtime.so /home/zbd/Targets/target_gr_orig/lib/libgnuradio-pmt.so -Wl,-rpath,/home/zbd/Targets/target_gr_orig/lib: 
